@@ -73,15 +73,10 @@ The visualizer implements a **recursive backtracking algorithm**:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/n-queens-visualizer.git
+https://github.com/BVPKARTHIKEYA/N-Queens-Visualizer.git
 ```
 
-2. Navigate to the project directory:
-```bash
-cd n-queens-visualizer
-```
-
-3. Open `index.html` in your web browser:
+2. Open `index.html` in your web browser:
 ```bash
 open index.html
 ```
